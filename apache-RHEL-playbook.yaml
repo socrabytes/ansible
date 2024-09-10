@@ -12,6 +12,3 @@
      - name: Start Apache and configure it to run at boot.
        command: service httpd start
      - command: chkconfig httpd on
-     
-     d
-     s
