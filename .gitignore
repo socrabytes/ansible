@@ -10,3 +10,6 @@
 
 # Ignore experimental learning content
 ansible_quickstart/
+
+# Ignore Ansible inventory file
+inventory.ini
