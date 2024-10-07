@@ -1,0 +1,12 @@
+# Ignore editor config files
+.vscode/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore Ansible retry files
+*.retry
+
+# Ignore experimental learning content
+ansible_quickstart/
